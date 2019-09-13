@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SISFORUPA</string>
+    <string name="Nama">M Mulvi Viriansyah</string>
+    <string name="Nim">H1101171052</string>
+    <string name="Simulasi">Simulasi Nilai</string>
+    <string name="Cuaca">Cuaca</string>
+    <string name="Nilai">Nilai</string>
+    <string name="Profil">Profil</string>
+    <string name="Ikon1">Ikon 1</string>
+    <string name="Ikon2">Ikon 2</string>
+    <string name="Saran">Saran</string>
+    <string name="Tentang">Tentang</string>
+</resources>
